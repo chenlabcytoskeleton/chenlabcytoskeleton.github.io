@@ -133,6 +133,6 @@ footer { background: #f8f8f8; padding: 32px 40px; text-align: center; font-size:
 /* Methods grid with labels above image pairs */
 .methods-grid-labeled { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-bottom: 40px; }
 .methods-grid-group {}
-.methods-grid-label { font-family: 'Roboto', sans-serif; font-size: 22px; font-weight: 400; margin-bottom: 12px; }
+.methods-grid-label { font-family: 'Roboto', sans-serif !important; font-size: 22px !important; font-weight: 400 !important; margin-bottom: 12px; color: #1D1E20; }
 .methods-grid-images { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
 .methods-grid-images img { width: 100%; height: 180px; object-fit: cover; border-radius: 4px; }
