@@ -121,3 +121,6 @@ footer { background: #f8f8f8; padding: 32px 40px; text-align: center; font-size:
   .section-divider, .research-intro, .research-section, .publications-list, .news-section { padding-left: 20px; padding-right: 20px; }
   .join-intro { padding: 32px 20px 16px; }
   .research-figures { padding: 20px; }
+
+.h3-line { display: block; }
+.h3-line:first-child { margin-bottom: 12px; }
