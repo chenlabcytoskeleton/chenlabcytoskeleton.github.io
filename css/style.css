@@ -31,7 +31,7 @@ nav a.active { border-bottom: 2px solid #0D141A; font-weight: 500; }
 
 /* TWO COLUMN */
 .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center; max-width: 1200px; margin: 0 auto; padding: 80px 40px; }
-.two-col-text h2, .two-col-text h3 { font-family: 'Roboto', sans-serif; font-size: 48px; font-weight: 600; color: #1D1E20; line-height: 1.15; margin-bottom: 28px; }
+.two-col-text h2, .two-col-text h3 { font-family: 'Roboto', sans-serif; font-size: 48px; font-weight: 400; color: #1D1E20; line-height: 1.15; margin-bottom: 28px; }
 .two-col-text p { font-size: 16px; color: #1D1E20; text-align: justify; line-height: 1.75; }
 .two-col-image .img-credit { font-size: 11px; color: #aaa; text-align: right; margin-top: 6px; font-style: italic; }
 
