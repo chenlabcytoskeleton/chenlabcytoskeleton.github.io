@@ -66,19 +66,19 @@ nav a.active { border-bottom: 2px solid #0D141A; font-weight: 500; }
 .method-block img { width: 100%; height: auto; border-radius: 4px; margin-bottom: 12px; }
 .method-label-row { display: flex; align-items: center; gap: 16px; margin-bottom: 8px; font-size: 14px; }
 .method-label-row span { min-width: 130px; color: #555; }
-.method-label-row img { height: 60px; width: auto; max-width: 200px; }
+.method-label-row img { height: 60px; width: auto; max-width: 200px; 
 .methods-caption { text-align: center; padding: 32px 40px 48px; font-size: 16px; color: #555; font-style: italic; max-width: 900px; margin: 0 auto; }
 
 /* TEAM */
 .team-member { display: grid; grid-template-columns: 1fr 2fr; gap: 60px; align-items: start; max-width: 1200px; margin: 0 auto; padding: 60px 40px; }
-.team-member img { width: 100%; border-radius: 8px; }
+.team-member img { width: 100%; border-radius: 4px; }
 .team-member-info h2 { font-family: 'Roboto', sans-serif; font-size: 32px; font-weight: 600; color: #1D1E20; margin-bottom: 6px; }
 .team-member-info .dept { font-size: 18px; color: #666; margin-bottom: 24px; font-style: italic; }
 .team-member-info p { font-size: 16px; line-height: 1.75; margin-bottom: 16px; }
 .team-member-info .contact { margin-top: 24px; font-size: 16px; }
 .team-member-info .contact a { text-decoration: underline; }
 .team-placeholder { display: grid; grid-template-columns: 1fr 2fr; gap: 60px; align-items: center; max-width: 1200px; margin: 0 auto; padding: 0 40px 60px; }
-.team-placeholder img { width: 100%; border-radius: 8px; }
+.team-placeholder img { width: 100%; border-radius: 4px; }
 .team-placeholder h3 { font-family: 'Roboto', sans-serif; font-size: 28px; font-weight: 600; color: #888; }
 
 /* PUBLICATIONS */
